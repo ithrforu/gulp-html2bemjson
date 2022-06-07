@@ -22,7 +22,7 @@
     "url": "https://github.com/ithrforu/gulp-html2bemjson/issues"
   },
   "homepage": "https://github.com/ithrforu/gulp-html2bemjson#readme",
-  "devDependencies": {
+  "dependencies": {
     "html2bemjson": "^1.10.0",
     "through2": "^4.0.2"
   }
