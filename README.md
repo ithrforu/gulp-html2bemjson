@@ -21,3 +21,5 @@ export default () => {
     .pipe(gulp.dest('src/pages'))
 };
 ```
+
+[Compile results example](https://github.com/ithrforu/gulp-html2bemjson/tree/main/example)
